@@ -17,13 +17,14 @@ FILL-GAN-NET is a deep learning model for **image inpainting without the use of 
 ## 🏗️ Architecture
 
 ```mermaid
-flowchart TD
-    A[📸 CelebA Images] --> B[SAGAN (300k epochs)]
-    B --> C[🖼️ Generated Full Images]
-    D[🕳️ Incomplete Inputs] --> E[🧠 Adaptor Network]
-    C --> E
-    E --> F[🎨 Final Inpainting Output]
-    F --> G[🔍 Output Refinement<br/>(Gaussian Filter + Overlap)]
+flowchart LR
+    A[Incomplete Images] --> B[Adapter] --> C[Latent Space] --> D[SAGAN] --> E[Generated Image]
+    A --> F[Overlap]
+    E --> F --> G[Gaussian Filter] --> H[Final Image]
+    
+    style A fill:#e1f5fe
+    style D fill:#e8f5e8
+    style H fill:#e3f2fd
 ```
 
 
