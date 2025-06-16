@@ -38,3 +38,10 @@ This project requires only minimal dependencies:
 torch
 numpy
 ```
+##  Sample Results
+
+
+
+| Masked Image | Inpainted Iamge ||
+----------------------|-------------------------|
+| <img width="482" alt="Screenshot 2023-07-27 094304" src="https://github.com/user-attachments/assets/41251879-139d-4bc1-9e3a-094a0c70b803" /> | <img width="482" alt="Screenshot 2023-07-27 094304" src="https://github.com/user-attachments/assets/2526d51a-6660-4c62-9c2d-ab984a7d41f8" /> |
