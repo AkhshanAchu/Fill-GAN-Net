@@ -40,6 +40,6 @@ numpy
 ```
 ##  Sample Results
 
-| <div align="center">**Masked Image**</div> | <div align="center">**Inpainted Image**</div> |
+| **Masked Image** | **Inpainted Image** |
 | --- | --- |
-| <div align="center"><img width="250" alt="Screenshot 2023-07-27 094304" src="https://github.com/user-attachments/assets/41251879-139d-4bc1-9e3a-094a0c70b803" /></div> | <div align="center"><img width="250" alt="Screenshot 2023-07-27 094236" src="https://github.com/user-attachments/assets/86c337bb-1595-460b-a67e-15f18c2f40a4" /></div> |
+| <img width="250" alt="Screenshot 2023-07-27 094304" src="https://github.com/user-attachments/assets/41251879-139d-4bc1-9e3a-094a0c70b803" /> | <img width="250" alt="Screenshot 2023-07-27 094236" src="https://github.com/user-attachments/assets/86c337bb-1595-460b-a67e-15f18c2f40a4" /> |
