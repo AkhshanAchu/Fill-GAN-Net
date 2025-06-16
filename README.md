@@ -42,6 +42,7 @@ numpy
 
 
 
-| Masked Image | Inpainted Iamge ||
-----------------------|-------------------------|
-| <img width="482" alt="Screenshot 2023-07-27 094304" src="https://github.com/user-attachments/assets/41251879-139d-4bc1-9e3a-094a0c70b803" /> | <img width="482" alt="Screenshot 2023-07-27 094304" src="https://github.com/user-attachments/assets/2526d51a-6660-4c62-9c2d-ab984a7d41f8" /> |
+| Masked Image | Inpainted Iamge |
+
+|----------------------|-------------------------|
+| <img width="482" alt="Screenshot 2023-07-27 094304" src="https://github.com/user-attachments/assets/41251879-139d-4bc1-9e3a-094a0c70b803" /> | <img width="407" alt="Screenshot 2023-07-27 094236" src="https://github.com/user-attachments/assets/86c337bb-1595-460b-a67e-15f18c2f40a4" />|
